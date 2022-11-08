@@ -1,0 +1,21 @@
+@font-face {
+	font-family: 'SimplyOlive-Regular';
+	src: url('fonts/simplyolive-regular.woff2') format('woff2'),
+
+}
+
+.new_font{
+    font-family: 'SimplyOlive-Regular', sans-serif;
+}
+
+ul.a {
+    color: brown;
+}
+ul.b {
+    color: gray;
+}
+
+body {
+    background-color: greenyellow;
+}
+
